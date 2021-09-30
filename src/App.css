@@ -1,0 +1,74 @@
+*{
+  background-color: gray;
+}
+.head{
+  display: inline-block;
+  margin-left: 40%;
+  box-shadow: 10px 10px 10px 10px rgb(97, 82, 82);
+  border-radius: 8px;
+  color: rgb(170, 49, 49);
+  cursor: pointer;
+}
+
+.input{
+  /* border: 2px solid black; */
+  display: block;
+  margin-left: 35%;
+  margin-right: 38%;
+  margin-top: 10%;
+  border-radius: 8px;
+  box-shadow: 10px 10px 10px 10px rgb(97, 82, 82);
+  background-color: gray;
+
+}
+
+.form-control1{
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-radius:4px;
+  margin-top: 4%;
+  background-color: beige;
+  box-shadow: 6px 6px 6px 6px rgb(97, 82, 82); ;
+}
+
+.form-control2{
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-radius:4px;
+  margin-top: 4%;
+  background-color: beige;
+  box-shadow: 6px 6px 6px 6px rgb(97, 82, 82);
+}
+
+.form-control3{
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-radius:4px;
+  margin-top: 4%;
+  background-color: beige;
+  box-shadow: 6px 6px 6px 6px rgb(97, 82, 82);
+}
+
+
+
+.btnRegister{
+  padding-left: 20px;
+  padding-right: 20px;
+  color:black;
+  font-size: medium;
+  display: block;
+  text-align: center;
+  margin-left: 33%;
+  margin-top: 4%;
+  background-color: rgb(170, 49, 49);
+  box-shadow: 2px 2px 2px 2px rgb(97, 82, 82);
+  cursor:pointer;
+   
+}
+ 
